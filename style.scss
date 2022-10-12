@@ -1,0 +1,137 @@
+body{
+  background:{
+    image: url("images/header_bg.jpg");
+    position: center top;
+    size: 100%;
+    repeat: no-repeat;
+
+  };
+}
+.container{
+  margin-top: 32% !important;
+  .head{
+    margin-top: -350px;
+    width: 1200px;
+    height: 80px;
+    background-color: transparent;
+    color: white;
+    .lisi{
+      text-decoration: none;
+      display: flex;
+      margin-left: 65px;
+      flex-direction: row;
+    }
+    .ulli{
+      text-decoration: none;
+      display: flex;
+    }
+    .dropdown{
+      background-color: transparent;
+      margin-left: 17% !important;
+      .btn-light{
+        color: white;
+        background-color: transparent!important;
+        border: 2px solid transparent;
+      }
+    }
+  }
+  .logo_card{
+    margin-top: -5%;
+  }
+  .nav_v{
+    width: 100%;
+    margin-top: 10%;
+    padding: 25px;
+    background-color: white;
+    .nav_ulli{
+      text-decoration: none;
+      display: flex;
+      flex-direction: row;
+    }
+    .nav_lisi{
+      text-decoration: none;
+      display: flex;
+    }
+    .row{
+      .col-4{
+        .dv{
+
+        }
+.img_g{
+  margin-left: -10%;
+}
+      }
+    }
+  }
+  .row{
+    .col-1{
+      .artickl{
+       width: 250px;
+        height: 200px;
+      }
+    .card_d{
+      width: 230px;
+    }
+    }
+  }
+.img_sektor{
+  width: 600px;
+  height: 200px;
+}
+  .card{
+    box-shadow: 11px 4px 48px 5px rgba(45, 78, 105, 0.15);
+    text-align: center;
+     width: 350px;
+      height: 350px;
+  .col-4{
+    .img_tatyana{
+      margin-left: 5%;
+      border-radius: 50%;
+      margin-top: 5%;
+    }
+  }
+  }
+  .carousel-indicators>li{
+    width: 15px;
+    height: 15px;
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color: #0c1834;
+  }
+      .carousel-inner{
+        .carousel-item{
+          .card{
+            .col-4{
+              .d-i-v{
+                margin-left: -60%;
+                width: 250px;
+                height: 150px;
+              }
+            }
+          }
+        }
+      }
+  .di-v{
+    margin-top: -15%;
+    width: 500px;
+    height: 10px;
+    background-image: linear-gradient(to right, red , white);
+  }
+    }
+.progress{
+  margin-top: -10%;
+}
+.pt-5{
+  background:{
+  image: url("images/footer_bg.png");
+  size: 100%;
+  position: left top;
+  repeat: no-repeat;
+}
+  .container{
+   .row{
+     margin-top: -43%;
+   }
+  }
+
+}

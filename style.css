@@ -1,0 +1,90 @@
+body {
+  background-image: url("images/header_bg.jpg");
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat; }
+
+.container {
+  margin-top: 32% !important; }
+  .container .head {
+    margin-top: -350px;
+    width: 1200px;
+    height: 80px;
+    background-color: transparent;
+    color: white; }
+    .container .head .lisi {
+      text-decoration: none;
+      display: flex;
+      margin-left: 65px;
+      flex-direction: row; }
+    .container .head .ulli {
+      text-decoration: none;
+      display: flex; }
+    .container .head .dropdown {
+      background-color: transparent;
+      margin-left: 17% !important; }
+      .container .head .dropdown .btn-light {
+        color: white;
+        background-color: transparent !important;
+        border: 2px solid transparent; }
+  .container .logo_card {
+    margin-top: -5%; }
+  .container .nav_v {
+    width: 100%;
+    margin-top: 10%;
+    padding: 25px;
+    background-color: white; }
+    .container .nav_v .nav_ulli {
+      text-decoration: none;
+      display: flex;
+      flex-direction: row; }
+    .container .nav_v .nav_lisi {
+      text-decoration: none;
+      display: flex; }
+    .container .nav_v .row .col-4 .img_g {
+      margin-left: -10%; }
+  .container .row .col-1 .artickl {
+    width: 250px;
+    height: 200px; }
+  .container .row .col-1 .card_d {
+    width: 230px; }
+  .container .img_sektor {
+    width: 600px;
+    height: 200px; }
+  .container .card {
+    box-shadow: 11px 4px 48px 5px rgba(45, 78, 105, 0.15);
+    text-align: center;
+    width: 350px;
+    height: 350px; }
+    .container .card .col-4 .img_tatyana {
+      margin-left: 5%;
+      border-radius: 50%;
+      margin-top: 5%; }
+  .container .carousel-indicators > li {
+    width: 15px;
+    height: 15px;
+    margin-top: 20px;
+    border-radius: 50%;
+    background-color: #0c1834; }
+  .container .carousel-inner .carousel-item .card .col-4 .d-i-v {
+    margin-left: -60%;
+    width: 250px;
+    height: 150px; }
+  .container .di-v {
+    margin-top: -15%;
+    width: 500px;
+    height: 10px;
+    background-image: linear-gradient(to right, red, white); }
+
+.progress {
+  margin-top: -10%; }
+
+.pt-5 {
+  background-image: url("images/footer_bg.png");
+  background-size: 100%;
+  background-position: left top;
+  background-repeat: no-repeat; }
+  .pt-5 .container .row {
+    margin-top: -43%; }
+
+/*# sourceMappingURL=style.css.map */
